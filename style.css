@@ -1,3 +1,7 @@
 h1{
-    background-color: blue;
+    border:  blue;
+}
+
+ul{
+    background-color: green;
 }
